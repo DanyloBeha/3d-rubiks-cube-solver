@@ -1,4 +1,6 @@
 # 3D-Симулятор і збирач Кубика Рубіка
+>Check out the [algorithm](/fridrich.py)! It was coded by hand
+
 <p align="center">
   <img src="solving.png" alt="3D visualization" width="50%">
 </p>
