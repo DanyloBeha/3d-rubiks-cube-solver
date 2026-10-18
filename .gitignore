@@ -1,0 +1,4 @@
+# Ignore all the cache
+__pycache__/
+*.pyc
+*.pyo
