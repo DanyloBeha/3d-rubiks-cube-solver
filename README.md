@@ -1,5 +1,7 @@
 # 3D-Симулятор і збирач Кубика Рубіка
-![3D visualization](solving.png)
+<p align="center">
+  <img src="solving.png" alt="3D visualization" width="50%">
+</p>
 
 > [!NOTE]
 > Проблеми та парадигми цього проекту можуть доповнюватися з розвитком його концепції. Також радимо прочитати [Notes](/Notes.md)
